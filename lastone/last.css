@@ -128,7 +128,7 @@ body{
 
     border-radius: 10px;
 
-    background-image: url(./atividades/figmap.PNG);
+    background-image: url(figmap.PNG);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 90%;
@@ -144,7 +144,7 @@ body{
 
     border-radius: 10px;
 
-    background-image: url(./atividades/photohopp.PNG);
+    background-image: url(photohopp.PNG);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 73%;
@@ -179,7 +179,7 @@ body{
     height: 40px;
 
     background-color: antiquewhite;
-    background-image: url(./icons/arrow-u-left-up-thin.png);
+    background-image: url(arrow-u-left-up-thin.png);
 
     background-repeat: no-repeat;
     background-size: cover;
